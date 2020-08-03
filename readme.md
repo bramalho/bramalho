@@ -6,3 +6,11 @@
 [![Python](https://img.shields.io/badge/Python-31%20commits-yellow.svg)](https://github.com/bramalho/bramalho)
 [![Shell](https://img.shields.io/badge/Shell-45%20commits-lightgrey.svg)](https://github.com/bramalho/bramalho)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/bramalho/bramalho)
+
+> Hi 👋
+>
+> I'm Bruno and I write code...
+
+[![bramalho's github stats](https://github-readme-stats.vercel.app/api?username=bramalho&show_icons=true&count_private=true)](https://github.com/bramalho/bramalho)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bramalho&layout=compact)](https://github.com/bramalho/bramalho)
